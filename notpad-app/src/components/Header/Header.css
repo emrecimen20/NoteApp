@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+.header h1{
+    color: rgb(74, 69, 69);
+}
